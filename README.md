@@ -15,3 +15,6 @@ https://www.canva.com/design/DAGT-obdPE0/sn9-iw2wNwS587RZR0tVdQ/edit?utm_content
 
 # Link de Trello
 https://trello.com/b/dLxbbuIy/dsm-board
+
+## Creative Commons License:
+La licencia CC BY-NC-SA 4.0 es ideal para la documentación de "Clear Note" porque asegura que otros puedan utilizar, modificar y compartir el contenido, siempre que den crédito a los autores originales, no lo usen con fines comerciales, y mantengan las mismas condiciones de licencia en cualquier obra derivada. Esto protege tu trabajo de ser explotado comercialmente y fomenta la colaboración bajo términos justos y abiertos.
