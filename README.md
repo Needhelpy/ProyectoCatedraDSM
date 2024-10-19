@@ -11,6 +11,7 @@ MF232232
 https://www.canva.com/design/DAGT-uSGrlo/hHSG7stQfZlUo6LW40aqsg/edit?utm_content=DAGT-uSGrlo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Link de Manual de Tecnico
+https://www.canva.com/design/DAGT-obdPE0/sn9-iw2wNwS587RZR0tVdQ/edit?utm_content=DAGT-obdPE0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Link de Trello
 https://trello.com/b/dLxbbuIy/dsm-board
